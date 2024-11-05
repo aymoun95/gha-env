@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "Kubernetes": "/infra/k8s/*.yaml",
+        "https://json.schemastore.org/github-workflow.json": "file:///Users/aymen/Documents/learn/env-vars-secrets/.github/workflows/deploy.yml"
+    }
+}
